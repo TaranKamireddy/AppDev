@@ -3,4 +3,5 @@
     <string name="heading">Hello Taran</string>
     <string name="increment">Increment</string>
     <string name="decrement">Decrement</string>
+    <string name="start">start</string>
 </resources>

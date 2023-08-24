@@ -2900,6 +2900,7 @@ int id start 0x7f08018c
 int id startHorizontal 0x7f08018d
 int id startToEnd 0x7f08018e
 int id startVertical 0x7f08018f
+int id start_button 0x7f0801df
 int id staticLayout 0x7f080190
 int id staticPostLayout 0x7f080191
 int id stop 0x7f080192
@@ -3291,6 +3292,7 @@ int string path_password_eye_mask_strike_through 0x7f0f0082
 int string path_password_eye_mask_visible 0x7f0f0083
 int string path_password_strike_through 0x7f0f0084
 int string search_menu_title 0x7f0f0085
+int string start 0x7f0f0087
 int string status_bar_notification_info_overflow 0x7f0f0086
 int style AlertDialog_AppCompat 0x7f100000
 int style AlertDialog_AppCompat_Light 0x7f100001

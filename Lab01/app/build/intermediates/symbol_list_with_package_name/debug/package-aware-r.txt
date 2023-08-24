@@ -2901,6 +2901,7 @@ id start
 id startHorizontal
 id startToEnd
 id startVertical
+id start_button
 id staticLayout
 id staticPostLayout
 id stop
@@ -3292,6 +3293,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
+string start
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

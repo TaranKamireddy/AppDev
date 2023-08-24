@@ -7,6 +7,7 @@ drawable ic_launcher_foreground
 id decrement_button
 id heading
 id increment_button
+id start_button
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
@@ -14,6 +15,7 @@ string app_name
 string decrement
 string heading
 string increment
+string start
 style Base.Theme.Lab01
 style Theme.Lab01
 xml backup_rules
