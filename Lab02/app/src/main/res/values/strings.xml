@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">L01</string>
+    <string name="heading">Hello!</string>
+    <string name="hello">Hello %1$s!</string>
+    <string name="message">Messages</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="name">Name</string>
+    <string name="first_message">Color %2$d: %1$s</string>
+    <string-array name="messages">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+    </string-array>
+</resources>
