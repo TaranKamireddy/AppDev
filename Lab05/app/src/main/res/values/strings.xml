@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="create">onCreate: %1$d</string>
+    <string name="start">onStart: %1$d</string>
+    <string name="resume">onResume: %1$d</string>
+    <string name="pause">onPause: %1$d</string>
+    <string name="stop">onStop: %1$d</string>
+    <string name="restart">onRestart: %1$d</string>
+    <string name="destroy">onDestroy: %1$d</string>
+</resources>

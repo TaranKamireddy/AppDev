@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+animator slide_down
+animator slide_up
+color black
+color gray
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable quizlet_logo
+id b_button
+id b_textview
+id fragment_container
+id guideline
+id imageView
+id layout
+id textView
+layout activity_main
+layout fragment_blank
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_click
+string clicked_message
+string count
+string greeting
+string greeting2
+style Base.Theme.Lab07
+style Theme.Lab07
+xml backup_rules
+xml data_extraction_rules
